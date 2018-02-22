@@ -7,3 +7,4 @@ AKA miscellaneous third-party libraries that contribute to the Honeycomb ecosyst
 - https://github.com/netlify/ansible-honeycomb
 - https://github.com/carwow/libhoney-ex
 - https://github.com/carlosalberto/libhoney-cs
+- https://github.com/bitgenics/event-collector
