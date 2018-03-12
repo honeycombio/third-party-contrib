@@ -1,10 +1,16 @@
-# third-party-contrib
+## Third Party Honeycomb Projects
 
-AKA miscellaneous third-party libraries that contribute to the Honeycomb ecosystem.
+In this repository we track open source projects related to Honeycomb that are built and maintained by third parties.
 
-- https://github.com/travis-ci/dynsampler-rb
-- https://github.com/getspine/spinesible-honeycomb
-- https://github.com/netlify/ansible-honeycomb
-- https://github.com/carwow/libhoney-ex
-- https://github.com/carlosalberto/libhoney-cs
-- https://github.com/bitgenics/event-collector
+We at Honeycomb cannot guarantee the quality of such projects - use at your own risk - but we strongly encourage you to try them, fork, and contribute to the upstream.
+
+If you'd like to add your own project, please file a pull request doing so.
+
+| Project Name | Description | Link |
+| --- | --- | --- |
+| dynsampler-rb |  An implementation of [dynsampler-go](https://github.com/honeycombio/dynsampler-go) written in Ruby. | https://github.com/travis-ci/dynsampler-rb |
+| spinsible-honeycomb | Ansible roles and config for Honeycomb. | https://github.com/getspine/spinesible-honeycomb |
+| ansible-honeycomb | Ansible roles and config for Honeycomb. | https://github.com/netlify/ansible-honeycomb |
+| libhoney-ex | Elixir bindings for Honeycomb. | https://github.com/carwow/libhoney-ex |
+| libhoney-cs | C# bindings for Honeycomb. | https://github.com/carlosalberto/libhoney-cs |
+| event-collector | A JavaScript library to make constructing wide Honeycomb events more pleasant. | https://github.com/bitgenics/event-collector |
