@@ -15,3 +15,5 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-cs | C# bindings for Honeycomb. | https://github.com/carlosalberto/libhoney-cs |
 | event-collector | A JavaScript library to make constructing wide Honeycomb events more pleasant. | https://github.com/bitgenics/event-collector |
 | libhoney-kotlin | Kotlin bindings for Honeycomb | https://github.com/imavroukakis/libhoney-kotlin |
+| heroku-buildpack-honeytail | Heroku buildpack containing Honeytail | https://github.com/nomics-crypto/heroku-buildpack-honeytail |
+| heroku-buildpack-nginx | Fork of Heroku nginx that detects honeytail | https://github.com/nomics-crypto/heroku-buildpack-nginx |
