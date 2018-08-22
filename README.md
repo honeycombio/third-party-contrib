@@ -18,3 +18,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | heroku-buildpack-honeytail | Heroku buildpack containing Honeytail | https://github.com/nomics-crypto/heroku-buildpack-honeytail |
 | heroku-buildpack-nginx | Fork of Heroku nginx that detects honeytail | https://github.com/nomics-crypto/heroku-buildpack-nginx |
 | digital-rebar-honeycomb | Plugin for Digital Rebar Provision (linked) that forwards system events and logs to Honeycomb.io account for observation.  Maintained by RackN.com | https://github.com/digitalrebar/provision |
+| hoenycomb-ae-event | Wrapper for Golang http.HandleFunc for use with Google App Engine Standard | https://github.com/seanhagen/honeycomb-ae-event |
