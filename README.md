@@ -14,8 +14,9 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-ex | Elixir bindings for Honeycomb. | https://github.com/carwow/libhoney-ex |
 | libhoney-cs | C# bindings for Honeycomb. | https://github.com/carlosalberto/libhoney-cs |
 | event-collector | A JavaScript library to make constructing wide Honeycomb events more pleasant. | https://github.com/bitgenics/event-collector |
+| honey-lambda-logger | A simple wrapper for NodeJS Lambda calls that logs every invocation in lambda with useful metadata | https://github.com/bitgenics/honey-lambda-logger |
 | libhoney-kotlin | Kotlin bindings for Honeycomb | https://github.com/imavroukakis/libhoney-kotlin |
 | heroku-buildpack-honeytail | Heroku buildpack containing Honeytail | https://github.com/nomics-crypto/heroku-buildpack-honeytail |
 | heroku-buildpack-nginx | Fork of Heroku nginx that detects honeytail | https://github.com/nomics-crypto/heroku-buildpack-nginx |
 | digital-rebar-honeycomb | Plugin for Digital Rebar Provision (linked) that forwards system events and logs to Honeycomb.io account for observation.  Maintained by RackN.com | https://github.com/digitalrebar/provision |
-| hoenycomb-ae-event | Wrapper for Golang http.HandleFunc for use with Google App Engine Standard | https://github.com/seanhagen/honeycomb-ae-event |
+| honeycomb-ae-event | Wrapper for Golang http.HandleFunc for use with Google App Engine Standard | https://github.com/seanhagen/honeycomb-ae-event |
