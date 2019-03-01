@@ -22,3 +22,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | honeycomb-ae-event | Wrapper for Golang http.HandleFunc for use with Google App Engine Standard | https://github.com/seanhagen/honeycomb-ae-event |
 | clj-honeycomb | A Clojure interface to Honeycomb.io, built on libhoney-java. | https://github.com/conormcd/clj-honeycomb |
 | libhoney-js-promise | A wrapper for libhoney-js that provides support for sending events with a promises api | https://github.com/ericallam/libhoney-js-promise |
+| honekiq | Sidekiq → Honeycomb bindings | https://github.com/carwow/honeykiq |
