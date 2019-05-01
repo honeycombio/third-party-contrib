@@ -26,3 +26,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | opencensus-python-honeycomb-exporter | OpenCensus Python exporter | https://github.com/codeboten/opencensus-python-honeycomb-exporter |
 | ship-logs-to-honeycomb | Send Lambda & Api Gateway logs | https://github.com/solve-hq/ship-logs-to-honeycomb |
 | cloudsql-to-honeytail | Send CloudSQL postgres logs | https://github.com/darklang/cloudsql-to-honeytail |
+| tracing-js | An implementation of Opentracing API for Honeycomb | https://github.com/zeit/tracing-js/ |
