@@ -24,7 +24,7 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-js-promise | A wrapper for libhoney-js that provides support for sending events with a promises api | https://github.com/ericallam/libhoney-js-promise |
 | honekiq | Sidekiq → Honeycomb bindings | https://github.com/carwow/honeykiq |
 | opencensus-python-honeycomb-exporter | OpenCensus Python exporter | https://github.com/codeboten/opencensus-python-honeycomb-exporter |
-| opencensus_honeycomb | OpenCensus Elixer exporter | https://github.com/opencensus-beam/opencensus_honeycomb |
+| opencensus_honeycomb | OpenCensus Elixir exporter | https://github.com/opencensus-beam/opencensus_honeycomb |
 | ship-logs-to-honeycomb | Send Lambda & Api Gateway logs | https://github.com/solve-hq/ship-logs-to-honeycomb |
 | cloudsql-to-honeytail | Send CloudSQL postgres logs | https://github.com/darklang/cloudsql-to-honeytail |
 | tracing-js | An implementation of Opentracing API for Honeycomb | https://github.com/zeit/tracing-js/ |
