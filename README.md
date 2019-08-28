@@ -15,6 +15,7 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-cs | C# bindings for Honeycomb. | https://github.com/carlosalberto/libhoney-cs |
 | event-collector | A JavaScript library to make constructing wide Honeycomb events more pleasant. | https://github.com/bitgenics/event-collector |
 | honey-lambda-logger | A simple wrapper for NodeJS Lambda calls that logs every invocation in lambda with useful metadata | https://github.com/bitgenics/honey-lambda-logger |
+| awshoney | A go library that adds useful AWS fields for different environments (lambda, sqs, ecs) | https://github.com/glassechidna/awshoney |
 | libhoney-kotlin | Kotlin bindings for Honeycomb | https://github.com/imavroukakis/libhoney-kotlin |
 | heroku-buildpack-honeytail | Heroku buildpack containing Honeytail | https://github.com/nomics-crypto/heroku-buildpack-honeytail |
 | heroku-buildpack-nginx | Fork of Heroku nginx that detects honeytail | https://github.com/nomics-crypto/heroku-buildpack-nginx |
