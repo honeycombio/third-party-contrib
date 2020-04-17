@@ -30,3 +30,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | cloudsql-to-honeytail | Send CloudSQL postgres logs | https://github.com/darklang/cloudsql-to-honeytail |
 | tracing-js | An implementation of Opentracing API for Honeycomb | https://github.com/zeit/tracing-js/ |
 | libhoney-rs | Rust bindings for Honeycomb | https://github.com/nlopes/libhoney-rust |
+| rspec_honeycomb_formatter | Custom RSpec formatter to send output to Honeycomb. | https://github.com/puppetlabs/rspec_honeycomb_formatter |
