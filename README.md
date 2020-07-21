@@ -32,3 +32,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-rs | Rust bindings for Honeycomb | https://github.com/nlopes/libhoney-rust |
 | rspec_honeycomb_formatter | Custom RSpec formatter to send output to Honeycomb. | https://github.com/puppetlabs/rspec_honeycomb_formatter |
 | honeycomb-logger | Nginx proxy that logs to stdout events sent to Honeycomb. | https://github.com/darklang/honeycomb-logger |
+| cl-honeycomb | Common Lisp client for sending events | https://github.com/franzinc/cl-honeycomb/ |
