@@ -36,3 +36,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | terraform-provider-honeycombio | Terraform provider for managing Honeycomb resources | https://github.com/kvrhdn/terraform-provider-honeycombio 
 | honeycomb-create-marker | Github Action for creating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-create-marker
 | honeycomb-update-marker | Github Action for updating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-update-marker
+| go-honeycombio | Go client for the Honeycomb management APIs (everything except events) | https://github.com/kvrhdn/go-honeycombio 
