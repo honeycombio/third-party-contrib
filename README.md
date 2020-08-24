@@ -38,3 +38,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | gha-honeymarker | Add Honeycomb Markers to your GitHub Actions workflows | https://github.com/naiduarvind/gha-honeymarker
 | terraform-aws-fargate-samproxy | Terraform module for easily running a cluster of [Samproxy](https://github.com/honeycombio/samproxy) workers | https://github.com/Vlaaaaaaad/terraform-aws-fargate-samproxy
 | honeylixir | Elixir libhoney style library for sending Honeycomb events | https://github.com/lirossarvet/honeylixir |
+| go-honeycombio | Go client for the Honeycomb management APIs (everything except events) | https://github.com/kvrhdn/go-honeycombio 
