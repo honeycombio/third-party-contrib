@@ -36,3 +36,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | terraform-provider-honeycombio | Terraform provider for managing Honeycomb resources | https://github.com/kvrhdn/terraform-provider-honeycombio 
 | honeycomb-create-marker | Github Action for creating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-create-marker
 | honeycomb-update-marker | Github Action for updating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-update-marker
+| terraform-aws-fargate-samproxy | Terraform module for easily running a cluster of [Samproxy](https://github.com/honeycombio/samproxy) workers | https://github.com/Vlaaaaaaad/terraform-aws-fargate-samproxy
