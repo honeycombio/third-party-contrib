@@ -34,6 +34,6 @@ If you'd like to add your own project, please file a pull request doing so.
 | honeycomb-logger | Nginx proxy that logs to stdout events sent to Honeycomb. | https://github.com/darklang/honeycomb-logger |
 | cl-honeycomb | Common Lisp client for sending events | https://github.com/franzinc/cl-honeycomb/ |
 | terraform-provider-honeycombio | Terraform provider for managing Honeycomb resources | https://github.com/kvrhdn/terraform-provider-honeycombio 
-| honeycomb-create-marker | Github Action for creating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-create-marker
-| honeycomb-update-marker | Github Action for updating Honeycomb Markers | https://github.com/beauknowssoftware/honeycomb-update-marker
+| gha-buildevents | Add observability to your GitHub Actions workflows | https://github.com/kvrhdn/gha-buildevents
+| gha-honeymarker | Add Honeycomb Markers to your GitHub Actions workflows | https://github.com/naiduarvind/gha-honeymarker
 | terraform-aws-fargate-samproxy | Terraform module for easily running a cluster of [Samproxy](https://github.com/honeycombio/samproxy) workers | https://github.com/Vlaaaaaaad/terraform-aws-fargate-samproxy
