@@ -40,3 +40,4 @@ If you'd like to add your own project, please file a pull request doing so.
 | honeylixir | Elixir libhoney style library for sending Honeycomb events | https://github.com/lirossarvet/honeylixir |
 | go-honeycombio | Go client for the Honeycomb management APIs (everything except events) | https://github.com/kvrhdn/go-honeycombio 
 | workers-honeycomb-logger | Capture Cloudflare worker metadata | https://github.com/cloudflare/workers-honeycomb-logger
+| logback-honeycomb-appender | Java SLF4J Appender that writes to Honeycomb and can write SpanEvents for tracing | https://tersesystems.github.io/terse-logback/guide/tracing/
