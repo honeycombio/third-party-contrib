@@ -8,6 +8,7 @@ If you'd like to add your own project, please file a pull request doing so.
 
 | Project Name | Description | Link |
 | --- | --- | --- |
+| HoneycombSerilogSink | Adds a [Serilog](https://serilog.net/) sink so you can push structured .NET logs to Honeycomb. | https://github.com/evilpilaf/HoneycombSerilogSink |
 | dynsampler-rb |  An implementation of [dynsampler-go](https://github.com/honeycombio/dynsampler-go) written in Ruby. | https://github.com/travis-ci/dynsampler-rb |
 | spinsible-honeycomb | Ansible roles and config for Honeycomb. | https://github.com/getspine/spinesible-honeycomb |
 | ansible-honeycomb | Ansible roles and config for Honeycomb. | https://github.com/netlify/ansible-honeycomb |
