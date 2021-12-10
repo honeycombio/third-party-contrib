@@ -20,7 +20,6 @@ If you'd like to add your own project, please file a pull request doing so.
 | libhoney-kotlin | Kotlin bindings for Honeycomb | https://github.com/imavroukakis/libhoney-kotlin |
 | heroku-buildpack-honeytail | Heroku buildpack containing Honeytail | https://github.com/nomics-crypto/heroku-buildpack-honeytail |
 | heroku-buildpack-nginx | Fork of Heroku nginx that detects honeytail | https://github.com/nomics-crypto/heroku-buildpack-nginx |
-| digital-rebar-honeycomb | Plugin for Digital Rebar Provision (linked) that forwards system events and logs to Honeycomb.io account for observation.  Maintained by RackN.com | https://github.com/digitalrebar/provision |
 | honeycomb-ae-event | Wrapper for Golang http.HandleFunc for use with Google App Engine Standard | https://github.com/seanhagen/honeycomb-ae-event |
 | clj-honeycomb | A Clojure interface to Honeycomb.io, built on libhoney-java. | https://github.com/conormcd/clj-honeycomb |
 | libhoney-js-promise | A wrapper for libhoney-js that provides support for sending events with a promises api | https://github.com/ericallam/libhoney-js-promise |
