@@ -35,7 +35,7 @@ If you'd like to add your own project, please file a pull request doing so.
 | cl-honeycomb | Common Lisp client for sending events | https://github.com/franzinc/cl-honeycomb/ |
 | gha-buildevents | Trace GitHub Action workflows and send to Honeycomb | https://github.com/kvrhdn/gha-buildevents
 | gha-honeymarker | Add Honeycomb Markers to your GitHub Actions workflows | https://github.com/naiduarvind/gha-honeymarker
-| terraform-aws-fargate-samproxy | Terraform module for easily running a cluster of [Samproxy](https://github.com/honeycombio/samproxy) workers | https://github.com/Vlaaaaaaad/terraform-aws-fargate-samproxy
+| terraform-aws-fargate-refinery | Terraform module for easily running a cluster of [Refinery](https://github.com/honeycombio/refinery) workers | https://github.com/Vlaaaaaaad/terraform-aws-fargate-refinery
 | honeylixir | Elixir libhoney style library for sending Honeycomb events | https://github.com/lirossarvet/honeylixir |
 | go-honeycombio | Go client for the Honeycomb management APIs (everything except events) | https://github.com/kvrhdn/go-honeycombio 
 | workers-honeycomb-logger | Capture Cloudflare worker metadata | https://github.com/cloudflare/workers-honeycomb-logger
