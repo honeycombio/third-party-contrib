@@ -1,4 +1,4 @@
-## Open Source Honeycomb Projects
+## Third Party Open Source Honeycomb Projects
 
 In this repository, we track open source projects related to Honeycomb that are built and maintained by third parties.
 
